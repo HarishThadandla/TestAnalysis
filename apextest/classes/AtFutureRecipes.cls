@@ -14,6 +14,7 @@ public with sharing class AtFutureRecipes {
      * this isn't a pattern I *often* turn to, but it can be valuable in certain
      * circumstances.
      */
+//
     @testVisible
     private static Boolean testCircuitBreaker = false;
     /**
